@@ -47,6 +47,7 @@
     "url": "https://github.com/prometheusresearch/react-forms/issues"
   },
   "dependencies": {
+    "classnames": "^1.1.4",
     "reactify": "^0.17.1"
   }
 }
